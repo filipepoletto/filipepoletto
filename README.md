@@ -1,12 +1,11 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Poletto</h1>
 <h3 align="center">A web developer focused on sharing and improving his programming knowledge</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p> -->
 
-- 🔭 I’m currently working on [HDN Digital](https://hdnit.com.br)
+- 🔭 I’m currently working on [Natosafe](https://natosafe.com.br) and [Hit Marketing Digital](https://hitdigital.com.br)
 
 - 👨‍💻 All of my projects are available at [fponline.com.br](https://fponline.com.br)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Node.js, React**
+- 🌱 I’m currently learning **TypeScript and Next.js**
 
 - 📫 How to reach me **contato@fponline.com.br**
 

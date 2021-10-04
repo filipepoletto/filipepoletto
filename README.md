@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Poletto</h1>
 <h3 align="center">A web developer focused on sharing and improving his programming knowledge</h3>
 
-- 🔭 I’m currently working on [Natosafe](https://natosafe.com.br) and [Hit Marketing Digital](https://hitdigital.com.br)
+- 🔭 I’m currently working on [Natosafe](https://natosafe.com.br) and [Hogarth Worldwide](https://hogarthww.com) outsourced by [Hit Marketing Digital](https://hitdigital.com.br)
 
 - 👨‍💻 All of my projects are available at [fponline.com.br](https://fponline.com.br)
 
